@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Cairo';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/cairo/v9/SLXLc1nY6Hkvalqaa46L59Nea3Zl.ttf) format('truetype');
+}
